@@ -1,0 +1,8 @@
+Harry_Potter	J._K._Rowling
+Harry_Potter	Owl
+Owl	Hawk
+Owl	J._K._Rowling
+Hawk	Bird
+Bird	Owl
+J._K._Rowling	Hawk
+J._K._Rowling	Bird
