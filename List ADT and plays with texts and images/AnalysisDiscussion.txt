@@ -1,0 +1,13 @@
+After examining the data, we found out several connections between the information. For example, the top 10 contries
+that have the least access to electricity also have very little CO2 emissions per capita, and the top 10 countries 
+that have the most annual population growth (generally) also have the most annual urban population growth.
+
+We pulled down the top 10 countries with highest CO2 emissions and compared them with total greenhouse gas emissions.
+And we are surprised that unlike other countries, United States and North America had significantly higher greenhouse
+gas emissions than other countries. We hypothesized that there are huge number of Industries and Factories that releases
+greenhouse gases other than CO2. This is the same as with Australia.
+
+We are also surprised that Urban population growth is generally not related to the Access to electricity. 
+
+We would like to investigate the relationship between population and its growth because the countries with more population
+also have more population growth and this is opposite to what we expected.
